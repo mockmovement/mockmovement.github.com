@@ -42,6 +42,9 @@
 			<div class="unit-inner unit-foot-inner">
 				<div class="misc vcard">
 					<h4>about</h4>
+				MockMovement #MockMovment is a "Symbolic Protest" against the "stakeholders" of Nepal's Constitutional Assembly, who were unable to give Nepal a constitution and it does not seem likely that WE will get the Constitution in near future.<br/><br/> We are starting this initiative to show, how the Constitution can/should be written Openly and Collaboratively.<br/><br/><br/> 
+<strong>Disclaimer: This is NOT intended, by any mean, to offend Nepal or THE INTERIM CONSTITUTION OF NEPAL, 2063 (2007).</strong>
+<br/><br/>
 					<ul>
 						<li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
 						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
